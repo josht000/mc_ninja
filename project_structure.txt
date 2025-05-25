@@ -1,0 +1,19 @@
+mc_ninja/
+├── assets/
+│   ├── animations/
+│   ├── fonts/
+│   ├── music/
+│   ├── sfx/
+│   └── sprites/
+│       ├── characters/
+│       ├── environment/
+│       ├── items/
+│       └── ui/
+├── scenes/
+│   ├── levels/
+│   ├── menus/
+│   └── prefabs/
+└── scripts/
+    ├── autoload/
+    ├── resources/
+    └── components/ 
